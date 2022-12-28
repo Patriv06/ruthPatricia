@@ -25,6 +25,13 @@ body {
     margin-top: 35px;
     height: 2000px;
   }
+
+  .section {
+    padding: 18px;
+    margin-top: 35px;
+    height: 2000px;
+  }
+
   /*Logo del menu*/
   .imagen {
     height: 50px;   
